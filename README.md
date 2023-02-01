@@ -1,7 +1,7 @@
 
 #  ETH Wallet - ReactJS, Firebase, styled-components
 
-A UI/UX and development concept of web **ETH wallet**. The ETH wallet project involves the creation of a user-friendly and visually appealing interface for managing and accessing Ethereum transactions. The project is built using **React JS, HTML, and styled-components** and has authorization and deployment via **Firebase**, 
+A development and UI/UX concept of web **ETH wallet**. The ETH wallet project involves the creation of a user-friendly and visually appealing interface for managing and accessing Ethereum transactions. The project is built using **React JS, HTML, and styled-components** and has authorization and deployment via **Firebase**, 
 
 Link - [https://software-engineering-wit.web.app](https://software-engineering-wit.web.app/) 
  
